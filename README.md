@@ -1,1 +1,1 @@
-# 32 Tap FIR Low Pass Filter design integrated with previously developed Direct Digital Synthesizer
+# Custom 32 Tap FIR Low Pass Filter Design Integrated with Previously Developed Direct Digital Synthesizer
