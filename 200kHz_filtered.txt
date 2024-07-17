@@ -1,0 +1,134 @@
+# KERNEL: Time=              500000, Counter=   0, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=             1500000, Counter= 205, DDS_Sin=  96, Filtered_Output=    0
+# KERNEL: Time=             2500000, Counter= 410, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=             3500000, Counter= 615, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=             4500000, Counter= 820, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=             5500000, Counter=   1, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=             6500000, Counter= 206, DDS_Sin=  96, Filtered_Output=    0
+# KERNEL: Time=             7500000, Counter= 411, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=             8500000, Counter= 616, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=             9500000, Counter= 821, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=            10500000, Counter=   2, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=            11500000, Counter= 207, DDS_Sin=  97, Filtered_Output=    0
+# KERNEL: Time=            12500000, Counter= 412, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=            13500000, Counter= 617, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=            14500000, Counter= 822, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=            15500000, Counter=   3, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=            16500000, Counter= 208, DDS_Sin=  97, Filtered_Output=    0
+# KERNEL: Time=            17500000, Counter= 413, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=            18500000, Counter= 618, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=            19500000, Counter= 823, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=            20500000, Counter=   4, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=            21500000, Counter= 209, DDS_Sin=  97, Filtered_Output=    0
+# KERNEL: Time=            22500000, Counter= 414, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=            23500000, Counter= 619, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=            24500000, Counter= 824, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=            25500000, Counter=   5, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=            26500000, Counter= 210, DDS_Sin=  97, Filtered_Output=    0
+# KERNEL: Time=            27500000, Counter= 415, DDS_Sin=  79, Filtered_Output=    0
+# KERNEL: Time=            28500000, Counter= 620, DDS_Sin=  18, Filtered_Output=    0
+# KERNEL: Time=            29500000, Counter= 825, DDS_Sin=   2, Filtered_Output=    0
+# KERNEL: Time=            30500000, Counter=   6, DDS_Sin=  50, Filtered_Output=    0
+# KERNEL: Time=            31500000, Counter= 211, DDS_Sin=  97, Filtered_Output=15556
+# KERNEL: Time=            32500000, Counter= 416, DDS_Sin=  79, Filtered_Output=15218
+# KERNEL: Time=            33500000, Counter= 621, DDS_Sin=  18, Filtered_Output=16150
+# KERNEL: Time=            34500000, Counter= 826, DDS_Sin=   2, Filtered_Output=17061
+# KERNEL: Time=            35500000, Counter=   7, DDS_Sin=  50, Filtered_Output=16688
+# KERNEL: Time=            36500000, Counter= 212, DDS_Sin=  97, Filtered_Output=15556
+# KERNEL: Time=            37500000, Counter= 417, DDS_Sin=  79, Filtered_Output=15220
+# KERNEL: Time=            38500000, Counter= 622, DDS_Sin=  18, Filtered_Output=16154
+# KERNEL: Time=            39500000, Counter= 827, DDS_Sin=   2, Filtered_Output=17065
+# KERNEL: Time=            40500000, Counter=   8, DDS_Sin=  50, Filtered_Output=16691
+# KERNEL: Time=            41500000, Counter= 213, DDS_Sin=  97, Filtered_Output=15558
+# KERNEL: Time=            42500000, Counter= 418, DDS_Sin=  77, Filtered_Output=15220
+# KERNEL: Time=            43500000, Counter= 623, DDS_Sin=  18, Filtered_Output=16150
+# KERNEL: Time=            44500000, Counter= 828, DDS_Sin=   2, Filtered_Output=17059
+# KERNEL: Time=            45500000, Counter=   9, DDS_Sin=  50, Filtered_Output=16683
+# KERNEL: Time=            46500000, Counter= 214, DDS_Sin=  97, Filtered_Output=15550
+# KERNEL: Time=            47500000, Counter= 419, DDS_Sin=  77, Filtered_Output=15216
+# KERNEL: Time=            48500000, Counter= 624, DDS_Sin=  16, Filtered_Output=16150
+# KERNEL: Time=            49500000, Counter= 829, DDS_Sin=   3, Filtered_Output=17055
+# KERNEL: Time=            50500000, Counter=  10, DDS_Sin=  50, Filtered_Output=16679
+# KERNEL: Time=            51500000, Counter= 215, DDS_Sin=  97, Filtered_Output=15545
+# KERNEL: Time=            52500000, Counter= 420, DDS_Sin=  77, Filtered_Output=15212
+# KERNEL: Time=            53500000, Counter= 625, DDS_Sin=  16, Filtered_Output=16140
+# KERNEL: Time=            54500000, Counter= 830, DDS_Sin=   3, Filtered_Output=17021
+# KERNEL: Time=            55500000, Counter=  11, DDS_Sin=  53, Filtered_Output=16615
+# KERNEL: Time=            56500000, Counter= 216, DDS_Sin=  97, Filtered_Output=15463
+# KERNEL: Time=            57500000, Counter= 421, DDS_Sin=  77, Filtered_Output=15121
+# KERNEL: Time=            58500000, Counter= 626, DDS_Sin=  16, Filtered_Output=16052
+# KERNEL: Time=            59500000, Counter= 831, DDS_Sin=   3, Filtered_Output=16935
+# KERNEL: Time=            60500000, Counter=  12, DDS_Sin=  53, Filtered_Output=16526
+# KERNEL: Time=            61500000, Counter= 217, DDS_Sin=  98, Filtered_Output=15381
+# KERNEL: Time=            62500000, Counter= 422, DDS_Sin=  77, Filtered_Output=15057
+# KERNEL: Time=            63500000, Counter= 627, DDS_Sin=  16, Filtered_Output=15999
+# KERNEL: Time=            64500000, Counter= 832, DDS_Sin=   3, Filtered_Output=16889
+# KERNEL: Time=            65500000, Counter=  13, DDS_Sin=  53, Filtered_Output=16492
+# KERNEL: Time=            66500000, Counter= 218, DDS_Sin=  98, Filtered_Output=15378
+# KERNEL: Time=            67500000, Counter= 423, DDS_Sin=  77, Filtered_Output=15107
+# KERNEL: Time=            68500000, Counter= 628, DDS_Sin=  16, Filtered_Output=16099
+# KERNEL: Time=            69500000, Counter= 833, DDS_Sin=   3, Filtered_Output=17018
+# KERNEL: Time=            70500000, Counter=  14, DDS_Sin=  53, Filtered_Output=16634
+# KERNEL: Time=            71500000, Counter= 219, DDS_Sin=  98, Filtered_Output=15522
+# KERNEL: Time=            72500000, Counter= 424, DDS_Sin=  77, Filtered_Output=15240
+# KERNEL: Time=            73500000, Counter= 629, DDS_Sin=  16, Filtered_Output=16213
+# KERNEL: Time=            74500000, Counter= 834, DDS_Sin=   3, Filtered_Output=17100
+# KERNEL: Time=            75500000, Counter=  15, DDS_Sin=  53, Filtered_Output=16687
+# KERNEL: Time=            76500000, Counter= 220, DDS_Sin=  98, Filtered_Output=15568
+# KERNEL: Time=            77500000, Counter= 425, DDS_Sin=  77, Filtered_Output=15288
+# KERNEL: Time=            78500000, Counter= 630, DDS_Sin=  16, Filtered_Output=16256
+# KERNEL: Time=            79500000, Counter= 835, DDS_Sin=   3, Filtered_Output=17134
+# KERNEL: Time=            80500000, Counter=  16, DDS_Sin=  53, Filtered_Output=16705
+# KERNEL: Time=            81500000, Counter= 221, DDS_Sin=  98, Filtered_Output=15579
+# KERNEL: Time=            82500000, Counter= 426, DDS_Sin=  77, Filtered_Output=15300
+# KERNEL: Time=            83500000, Counter= 631, DDS_Sin=  16, Filtered_Output=16268
+# KERNEL: Time=            84500000, Counter= 836, DDS_Sin=   3, Filtered_Output=17143
+# KERNEL: Time=            85500000, Counter=  17, DDS_Sin=  53, Filtered_Output=16711
+# KERNEL: Time=            86500000, Counter= 222, DDS_Sin=  98, Filtered_Output=15579
+# KERNEL: Time=            87500000, Counter= 427, DDS_Sin=  77, Filtered_Output=15302
+# KERNEL: Time=            88500000, Counter= 632, DDS_Sin=  16, Filtered_Output=16272
+# KERNEL: Time=            89500000, Counter= 837, DDS_Sin=   3, Filtered_Output=17147
+# KERNEL: Time=            90500000, Counter=  18, DDS_Sin=  53, Filtered_Output=16714
+# KERNEL: Time=            91500000, Counter= 223, DDS_Sin=  98, Filtered_Output=15581
+# KERNEL: Time=            92500000, Counter= 428, DDS_Sin=  74, Filtered_Output=15302
+# KERNEL: Time=            93500000, Counter= 633, DDS_Sin=  16, Filtered_Output=16266
+# KERNEL: Time=            94500000, Counter= 838, DDS_Sin=   3, Filtered_Output=17138
+# KERNEL: Time=            95500000, Counter=  19, DDS_Sin=  53, Filtered_Output=16702
+# KERNEL: Time=            96500000, Counter= 224, DDS_Sin=  98, Filtered_Output=15569
+# KERNEL: Time=            97500000, Counter= 429, DDS_Sin=  74, Filtered_Output=15296
+# KERNEL: Time=            98500000, Counter= 634, DDS_Sin=  13, Filtered_Output=16266
+# KERNEL: Time=            99500000, Counter= 839, DDS_Sin=   5, Filtered_Output=17132
+# KERNEL: Time=           100500000, Counter=  20, DDS_Sin=  53, Filtered_Output=16697
+# KERNEL: Time=           101500000, Counter= 225, DDS_Sin=  98, Filtered_Output=15563
+# KERNEL: Time=           102500000, Counter= 430, DDS_Sin=  74, Filtered_Output=15292
+# KERNEL: Time=           103500000, Counter= 635, DDS_Sin=  13, Filtered_Output=16253
+# KERNEL: Time=           104500000, Counter= 840, DDS_Sin=   5, Filtered_Output=17082
+# KERNEL: Time=           105500000, Counter=  21, DDS_Sin=  56, Filtered_Output=16601
+# KERNEL: Time=           106500000, Counter= 226, DDS_Sin=  98, Filtered_Output=15437
+# KERNEL: Time=           107500000, Counter= 431, DDS_Sin=  74, Filtered_Output=15151
+# KERNEL: Time=           108500000, Counter= 636, DDS_Sin=  13, Filtered_Output=16115
+# KERNEL: Time=           109500000, Counter= 841, DDS_Sin=   5, Filtered_Output=16947
+# KERNEL: Time=           110500000, Counter=  22, DDS_Sin=  56, Filtered_Output=16467
+# KERNEL: Time=           111500000, Counter= 227, DDS_Sin=  99, Filtered_Output=15323
+# KERNEL: Time=           112500000, Counter= 432, DDS_Sin=  74, Filtered_Output=15070
+# KERNEL: Time=           113500000, Counter= 637, DDS_Sin=  13, Filtered_Output=16056
+# KERNEL: Time=           114500000, Counter= 842, DDS_Sin=   5, Filtered_Output=16901
+# KERNEL: Time=           115500000, Counter=  23, DDS_Sin=  56, Filtered_Output=16439
+# KERNEL: Time=           116500000, Counter= 228, DDS_Sin=  99, Filtered_Output=15332
+# KERNEL: Time=           117500000, Counter= 433, DDS_Sin=  74, Filtered_Output=15134
+# KERNEL: Time=           118500000, Counter= 638, DDS_Sin=  13, Filtered_Output=16167
+# KERNEL: Time=           119500000, Counter= 843, DDS_Sin=   5, Filtered_Output=17031
+# KERNEL: Time=           120500000, Counter=  24, DDS_Sin=  56, Filtered_Output=16577
+# KERNEL: Time=           121500000, Counter= 229, DDS_Sin=  99, Filtered_Output=15473
+# KERNEL: Time=           122500000, Counter= 434, DDS_Sin=  74, Filtered_Output=15265
+# KERNEL: Time=           123500000, Counter= 639, DDS_Sin=  13, Filtered_Output=16281
+# KERNEL: Time=           124500000, Counter= 844, DDS_Sin=   5, Filtered_Output=17111
+# KERNEL: Time=           125500000, Counter=  25, DDS_Sin=  56, Filtered_Output=16628
+# KERNEL: Time=           126500000, Counter= 230, DDS_Sin=  99, Filtered_Output=15519
+# KERNEL: Time=           127500000, Counter= 435, DDS_Sin=  74, Filtered_Output=15314
+# KERNEL: Time=           128500000, Counter= 640, DDS_Sin=  13, Filtered_Output=16325
+# KERNEL: Time=           129500000, Counter= 845, DDS_Sin=   5, Filtered_Output=17147
+# KERNEL: Time=           130500000, Counter=  26, DDS_Sin=  56, Filtered_Output=16646
+# KERNEL: Time=           131500000, Counter= 231, DDS_Sin=  99, Filtered_Output=15530
+# KERNEL: Time=           132500000, Counter= 436, DDS_Sin=  74, Filtered_Output=15326
+# KERNEL: Time=           133500000, Counter= 641, DDS_Sin=  13, Filtered_Output=16337
