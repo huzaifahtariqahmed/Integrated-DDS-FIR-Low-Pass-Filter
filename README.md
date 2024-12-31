@@ -44,7 +44,7 @@ Will be testing for 10kHz, 50kHz, 200kHz and 250kHz frequencies.
 
 ## Converting Filter Coefficients to 8 Bit Binary Representation
 
-
+The Matlab Script for this [low_pass_filter.mlx] can be found in this Repo
 
 --- 
 
