@@ -44,19 +44,21 @@ Will be testing for 10kHz, 50kHz, 200kHz and 250kHz frequencies.
 
 ## Converting Filter Coefficients to 8 Bit Binary Representation
 
-The Matlab Script for this is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/low_pass_filter.mlx)
+The Matlab Script for this is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/low_pass_filter.mlx).
 
 ## Filter Implementation in Verilog
 
 ### FIR Low Pass Filter
 
-The Verilog Code for this is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/fir_low_pass_filter.v)
+The Verilog Code for this is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/fir_low_pass_filter.v).
 
 ![Low Pass Filter Schematic](Images/lpfschematic.png)
 
 ### Top Level Module
 
 This Combines the above filter with the two modules [phase counter](https://github.com/huzaifahtariqahmed/Direct-Digital-Synthesizer/blob/main/DDS%20Verilog%20Scripts/phase_counter.v) and [phase to amplitude](https://github.com/huzaifahtariqahmed/Direct-Digital-Synthesizer/blob/main/DDS%20Verilog%20Scripts/phase_to_amplitude.v) of the DDS.
+
+The Verilog Code for Top Level Module is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/top_module.v).
 
 --- 
 
