@@ -66,6 +66,58 @@ The Verilog Code for Top Level Module is [this](https://github.com/huzaifahtariq
 
 Test Bench can be found [here](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/tb_top_module.v).
 
+## Results
+
+In verilog simulation I printed the time, counter, DDS sine wave amplitude values, and filtered output amplitude values in the logs. I then copied these output log values into a .txt file and used matlab to parse through it and generate one wave using dds output values and other using filtered output values, both against the time values. However for filtered output I also divided the values by 256 and then plotted them.
+
+### 10kHz Sine Wave
+
+I am adding the matlab script used for this, for just the 10kHz Sine Wave, as it is pretty much the same for other Sine Waves.
+
+#### Simulation
+
+![10kHz Simulation](Images/10kHzsim.png)
+
+#### Matlab Script Used for Plotting
+
+Can be found [here](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/low_pass_filter.mlx)
+
+#### Plots
+
+![10kHz Plots](Images/10kHzplot.png)
+
+### 50kHz Sine Wave
+
+#### Simulation
+
+![50kHz Simulation](Images/50kHzsim.png)
+
+#### Plots
+
+![50kHz Plots](Images/50kHzplot.png)
+
+### 200kHz Sine Wave
+
+#### Simulation
+
+![200kHz Simulation](Images/200kHzsim.png)
+
+#### Plots
+
+![200kHz Plots](Images/200kHzplot.png)
+
+### 250kHz Sine Wave
+
+#### Simulation
+
+![250kHz Simulation](Images/250kHzsim.png)
+
+#### Plots
+
+![250kHz Plots](Images/250kHzplot.png)
+
+In these Verilog Results you may notice a completely zero magnitude at the start. That is basically the period of don’t care where the window is filling itself. For plotting purposes I have assumed don’t care values to be zero. We can also notice a phase change in both Matlab and Verilog Results, whenever we have a filtered output. That is just a delay because of the characteristics of the filter we designed.
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
