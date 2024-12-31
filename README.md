@@ -60,6 +60,12 @@ This Combines the above filter with the two modules [phase counter](https://gith
 
 The Verilog Code for Top Level Module is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/top_module.v).
 
+![Top Level Schematic](Images/topschematic.png)
+
+### Test Bench
+
+Test Bench can be found [here]().
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
