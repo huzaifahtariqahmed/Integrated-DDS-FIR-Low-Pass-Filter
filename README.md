@@ -52,6 +52,12 @@ The Matlab Script for this is [this](https://github.com/huzaifahtariqahmed/Integ
 
 The Verilog Code for this is [this](https://github.com/huzaifahtariqahmed/Integrated-DDS-FIR-Low-Pass-Filter/blob/main/fir_low_pass_filter.v)
 
+![Low Pass Filter Schematic](Images/lpfschematic.png)
+
+### Top Level Module
+
+This Combines the above filter with the two modules [phase counter](https://github.com/huzaifahtariqahmed/Direct-Digital-Synthesizer/blob/main/DDS%20Verilog%20Scripts/phase_counter.v) and [phase to amplitude](https://github.com/huzaifahtariqahmed/Direct-Digital-Synthesizer/blob/main/DDS%20Verilog%20Scripts/phase_to_amplitude.v) of the DDS.
+
 --- 
 
 **Contributions**: All of the code in this repository is written by [Huzaifah Tariq Ahmed](https://github.com/huzaifahtariqahmed). 
